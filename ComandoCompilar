@@ -1,0 +1,1 @@
+gcc [ARQ_ENTRADA.c] -o [ARQ_SAIDA] -lglut -lGLU -lGL -lm
